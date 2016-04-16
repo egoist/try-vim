@@ -1,5 +1,7 @@
 # Try Vim
 
+本文档使用 `Vim` 撰写。
+
 ## 移动光标
 
 <kbd>h</kbd> <kbd>j</kbd> <kbd>k</kbd> <kbd>l</kbd>
