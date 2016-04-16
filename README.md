@@ -24,4 +24,4 @@ Vim 有三种模式，默认模式叫 `Normal Mode`，在这个模式你可以�
 
 在 `Normal Mode` 下点 <kbd>i</kbd> 会进入 `Insert Mode`，这时你可以开始编辑内容、插入文本。
 
-在 `Normal Mode` 下点 <kbd>v</kbd> 会进入 `Visual Model`，这时你可以移动光标选择一段文本。
+在 `Normal Mode` 下点 <kbd>v</kbd> 会进入 `Visual Model`，这时你可以移动光标选择一段文本。点 <kbd>shift</kbd> + <kbd>v</kbd> 来快速选择本行文本。
